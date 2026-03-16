@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.3">
+  <diagram name="Page-1" id="TcZt-kD1Ob5VTx5kJ-sR">
+    <mxGraphModel dx="991" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I-NAcaT-kxW0g0WsNjp8-4" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Anthropomorphic robotics arm&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="360" as="geometry" />
+        </mxCell>
+        <mxCell id="I-NAcaT-kxW0g0WsNjp8-15" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="D2-Base-IMU" vertex="1">
+          <mxGeometry height="60" width="60" x="40" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="I-NAcaT-kxW0g0WsNjp8-16" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;D2-Shaft-IMU&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="60" x="40" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="I-NAcaT-kxW0g0WsNjp8-17" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;D2-Head-IMU&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="60" x="40" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="I-NAcaT-kxW0g0WsNjp8-19" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;D3-Base-IMU&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="60" x="40" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="I-NAcaT-kxW0g0WsNjp8-20" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;D3-Shaft-IMU&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="60" x="40" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="I-NAcaT-kxW0g0WsNjp8-21" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div&gt;D2-Head-IMU&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="60" x="40" y="480" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
